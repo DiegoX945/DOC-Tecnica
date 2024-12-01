@@ -21,7 +21,7 @@ Descarga la versión LTS (Long Term Support).
 
 # Instala Node.js según tu sistema operativo:
 
-![]()
+![](https://github.com/DiegoX945/DOC-Tecnica/blob/main/Imagenes/imagen%20(9).png)
 
 ## Windows:
 
