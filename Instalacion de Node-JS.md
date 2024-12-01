@@ -8,7 +8,7 @@ Ejecuta el siguiente comando:
 Copiar código
 ``` bash
 node -v
-``` 
+```
 Si devuelve un número de versión como v18.17.0, Node.js ya está instalado.
 
 Si no aparece, necesitas instalarlo siguiendo los pasos a continuación.
