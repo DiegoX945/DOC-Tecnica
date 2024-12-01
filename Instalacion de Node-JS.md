@@ -21,6 +21,8 @@ Descarga la versión LTS (Long Term Support).
 
 # Instala Node.js según tu sistema operativo:
 
+![]()
+
 ## Windows:
 
 Ejecuta el archivo .msi descargado.
