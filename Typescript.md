@@ -14,7 +14,10 @@ Copiar código
   ``` bash
   tsc -v
   ```
-Debería aparecer una versión como Version 5.2.2.
+Debería aparecer una versión como Version 5.7.2.
+
+![](https://github.com/DiegoX945/DOC-Tecnica/blob/main/Imagenes/ins-type.png.jpg)
+
 Configurar TypeScript
 ### Navega a tu proyecto y ejecuta:
 
@@ -22,7 +25,12 @@ Copiar código
   ``` bash
   tsc --init
   ```
+
+![](https://github.com/DiegoX945/DOC-Tecnica/blob/main/Imagenes/jason.jpg)
+
 Esto generará un archivo de configuración llamado tsconfig.json.
+
+![](https://github.com/DiegoX945/DOC-Tecnica/blob/main/Imagenes/tsconfig.jpg)
 
 ### Ejemplo de configuración (tsconfig.json):
 
